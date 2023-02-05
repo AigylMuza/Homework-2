@@ -3,9 +3,9 @@
         {
             "id": 1,
             "title": "'iPhone Galaxy +1'",
-            "price": 549,
-            "stock": 94,
-            "rating": 4.69,
+            "price": 550,
+            "stock": 95,
+            "rating": 4.70,
             "images": [
                 "https://i.dummyjson.com/data/products/1/1.jpg",
                 "https://i.dummyjson.com/data/products/1/2.jpg",
